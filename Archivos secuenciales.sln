@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archivos secuenciales", "Archivos secuenciales\Archivos secuenciales.csproj", "{DFCE9445-E3D4-4E6D-B885-93E812F1E7B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFCE9445-E3D4-4E6D-B885-93E812F1E7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCE9445-E3D4-4E6D-B885-93E812F1E7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCE9445-E3D4-4E6D-B885-93E812F1E7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCE9445-E3D4-4E6D-B885-93E812F1E7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8080F13A-FE1C-42CB-B3A9-9CD0DC3B81D7}
+	EndGlobalSection
+EndGlobal
